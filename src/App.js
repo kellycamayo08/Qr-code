@@ -3,9 +3,9 @@ import Card from './components/Card';
 
 function App() {
   return (
-    <div className='container-card'>
+    <main className='container-card'>
       <Card />
-    </div>
+    </main>
 
   );
 }
